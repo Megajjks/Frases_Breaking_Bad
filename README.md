@@ -14,3 +14,8 @@ npm start
 ```
 
 Happy Hack:D
+
+### 🔴 Live
+
+Link para ver este proyecto en ejecución
+[Frases Breaking Bad](https://nifty-spence-6609f8.netlify.app/ "Frases Breaking Bad")
